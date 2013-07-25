@@ -12,7 +12,7 @@ This code was modified from the germline pipeline from utilities published by Gu
 which was released under the GPL license. It essentially modifies the phasing pipeline to convert beagle files straight to 
 ped files without passing files through the germline program. 
 
-Original Phasing Pipeline can be found (here){http://www.cs.columbia.edu/~gusev/germline/}
+Original Phasing Pipeline can be found [here](http://www.cs.columbia.edu/~gusev/germline/)
 
 Included in this repository are the original README, makefile, convertion C++ code, and modifies shell scripts.
 
